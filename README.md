@@ -1,4 +1,2 @@
-# .Net
-# .Net
 # new
 # new
